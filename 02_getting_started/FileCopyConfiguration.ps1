@@ -20,3 +20,7 @@ Configuration FileCopyConfiguration
         }
     }
 }
+
+# How to create MOF file
+# execute in memory, see 
+# FileCopyConfiguration -OutputPath ./configurations/ -Verbose
